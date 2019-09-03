@@ -1,0 +1,5 @@
+   
+1) change your connection string you need to change connection string in login.aspx.cs
+
+2) Login :  Username : admin
+            Password  : password

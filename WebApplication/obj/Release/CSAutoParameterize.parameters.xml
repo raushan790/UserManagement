@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="cnStr-Web.config Connection String" description="cnStr Connection String used in web.config by the application to access the database." defaultValue="Data Source=sql6006.site4now.net;Initial Catalog=DB_A455D4_UserManag;User ID=DB_A455D4_UserManag_admin; Password=7795bestmA007#" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\raush\\Desktop\\Working_Folder\\UserManagement\\WebApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cnStr']/@connectionString" />
+  </parameter>
+</parameters>
